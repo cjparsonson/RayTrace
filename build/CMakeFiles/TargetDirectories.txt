@@ -1,0 +1,3 @@
+C:/Users/chris.parsonson/OneDrive - Agile ICT/Documents/RayTrace/build/CMakeFiles/Main.dir
+C:/Users/chris.parsonson/OneDrive - Agile ICT/Documents/RayTrace/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/chris.parsonson/OneDrive - Agile ICT/Documents/RayTrace/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\chris.parsonson\OneDrive - Agile ICT\Documents\RayTrace\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chris.parsonson\OneDrive - Agile ICT\Documents\RayTrace\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9A1F061B-4C40-3679-8368-571332C7BA5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\CHRIS.PARSONSON\ONEDRIVE - AGILE ICT\DOCUMENTS\RAYTRACE\BUILD\CMAKEFILES\0A76716E9CBE49D24B448E43BD16A2BA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/chris.parsonson/OneDrive - Agile ICT/Documents/RayTrace" "-BC:/Users/chris.parsonson/OneDrive - Agile ICT/Documents/RayTrace/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/chris.parsonson/OneDrive - Agile ICT/Documents/RayTrace/build/RTWeekend.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
